@@ -23,3 +23,8 @@ If you're using Atom, download the [EditorConfig plugin](https://github.com/sind
 ## Pull Request
 
 Any changes made must be in the forked repo. Sent pull request to the main repo for review. It will then be merged if its ok.
+
+## React + Meteor Resources
+[React tuts - Getting started](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+[Meteor Chef Getting started with react](https://themeteorchef.com/recipes/getting-started-with-react/) More relevant to Meteor + React eco system
+[SimpleCRM](https://github.com/tomRedox/simpleCRM) - A good sample of React + Meteor with Redux.
